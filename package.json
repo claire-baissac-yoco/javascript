@@ -1,0 +1,13 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yoco-grad-programme/javascript.git",
+  "dependencies": {
+    "jest": "^27.5.1"
+  },
+  "scripts": {
+    "test": "jest",
+    "test-watch": "jest --watch"
+  }
+}
